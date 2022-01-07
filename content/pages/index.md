@@ -2,7 +2,7 @@
 title: Home
 has_intro: true
 intro_content: >-
-مراجعه 
+مراجعه شركات استضافة المواقع
 intro_actions:
   - label: Learn More
     url: /about
